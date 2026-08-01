@@ -72,7 +72,10 @@ Slides: *Slides to come.*
 
 Instructors: Aneel Damaraju and Franc O
 
-Materials: *To be added.*
+Materials: 
+- [Google Drive folder](https://drive.google.com/drive/folders/1j8Ey5gwIO5uhfOQLWIbbj_QWoeUOY4ho?usp=drive_link)
+- [Slides, Part 1](https://drive.google.com/file/d/1v8Ouln1X7s7V6uoNnvJlMFF-y-5NUNfO/view)
+- [Slides, Part 2](https://drive.google.com/file/d/1ucfVubz_t8mvbsnG1HweTwlzoAKwKs5e/view)
 
 ## 4. Dynamic Simulation-Based Inference: Extracting Physics from Complex Data and Simulations
 
