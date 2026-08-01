@@ -29,7 +29,8 @@ Slides: *Slides to come.*
 
 Instructor: [Jose Munoz](https://munozariasjm.github.io/)
 
-Materials: *To be added.*
+Materials: 
+- [Linked here](https://github.com/munozariasjm/sr_tutorial_material)
 
 ## 2. Efficient Diffusion Models
 
