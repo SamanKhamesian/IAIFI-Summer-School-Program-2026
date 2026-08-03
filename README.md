@@ -10,7 +10,7 @@ Presented by Will Detmold: *Slides to come.*
 
 Instructor: [Miles Cranmer](https://www.maths.cam.ac.uk/person/mc2473)
 
-Slides: *Slides to come.*
+Slides: [View Here](https://drive.google.com/file/d/1kk7pLNFrBGmN9YNMsKFas2ME_TWHaMx7/view?usp=sharing)
 
 ### Useful Materials
 - [PySR docs](https://ai.damtp.cam.ac.uk/pysr/)
