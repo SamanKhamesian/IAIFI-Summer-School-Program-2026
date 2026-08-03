@@ -29,8 +29,7 @@ Slides: [View Here](https://drive.google.com/file/d/1kk7pLNFrBGmN9YNMsKFas2ME_TW
 
 Instructor: [Jose Munoz](https://munozariasjm.github.io/)
 
-Materials: 
-- [Linked here](https://github.com/munozariasjm/sr_tutorial_material)
+Materials: [View Here](https://github.com/munozariasjm/sr_tutorial_material)
 
 ## 2. Efficient Diffusion Models
 
