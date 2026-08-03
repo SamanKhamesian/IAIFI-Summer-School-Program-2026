@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Presented by Will Detmold: *Slides to come.*
+Presented by Will Detmold: [View Slides](https://docs.google.com/presentation/d/1WoXBA4IplwUnJ6VltvvZWUC_9zWFC-pW/edit?usp=sharing&ouid=113795742869595335302&rtpof=true&sd=true)
 
 ## 1. Automatic Equation Discovery
 
@@ -110,7 +110,8 @@ Enter your team here by noon on Friday, August 7: *Link to be posted Friday morn
 3. From Jun-Yan and Mathis: Train a velocity field that transports one distribution straight into another — a ring of blobs into a spiral, or two shapes you invent — and render the deformation. Then ask what makes a good pairing between the two ends, and what happens when you chain three shapes in a loop.
 4. From Berthy, Franc, and Aneel: Extend InverseBench (https://github.com/devzhk/InverseBench) with a scientific inverse problem of your choice. Implement the physics-based forward model and benchmark the available diffusion-model-based sampling algorithms included in InverseBench. Optionally, extend InverseBench with a new diffusion-model-based sampling algorithm or one based on a recent paper
 5. From Berthy, Franc, and Aneel: Develop a diffusion-model-based approach for solving a blind inverse imaging problem, i.e., one where the forward model is unknown. In blind inverse problems, typically the setup is that certain parameters of the forward model are unknown, and they are fit with a learned prior along with the unknown image. See https://arxiv.org/abs/2509.25269 for an example of a diffusion-model-based approach to a blind inverse problem in ptychography.
-6. Work on your own project!
+6. From Christoph and Christina: Stellar streams are among the best dynamical probes we have of the Milky Way's gravitational potential and its dark matter. A globular cluster or dwarf galaxy caught in the Galactic tide slowly unravels into a thin ribbon of stars strung along its orbit, and the ribbon's length, width, and kinematics encode both the progenitor that made it and the potential it fell through. The forward model is a stochastic, multi-Gyr disruption simulation with no tractable likelihood. Use simulation-based inference to estimate the GD1 progenitor's parameters from a binned image of its stream, marginalize the eight stripping nuisances, and check whether the posteriors are actually calibrated.
+7. Work on your own project!
 
 ### Prize Categories
 - Best project (effort, presentation, use of summer school topics)
