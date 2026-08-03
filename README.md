@@ -95,7 +95,7 @@ Slides: *Slides to come.*
 
 Instructor: [Christina Reissel](https://www.linkedin.com/in/christina-reissel-06bab818a/)
 
-Materials: *To be added.*
+Materials: [View here](https://github.com/chreissel/sbi-tutorial-iaifi26)
 
 ## 5. Hackathon
 
