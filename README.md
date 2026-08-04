@@ -37,7 +37,7 @@ Materials: [View Here](https://github.com/munozariasjm/sr_tutorial_material)
 
 Instructor: [Jun-Yan Zhu]([https://www.maths.cam.ac.uk/person/mc2473](https://www.cs.cmu.edu/~junyanz/))
 
-Slides: *Slides to come.*
+Slides: [View here](https://drive.google.com/file/d/1yi801aavUuu190s3v68K_JEPsUUNpnU5/view?usp=drive_link)
 
 ### Useful Materials
 - [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
@@ -72,8 +72,7 @@ Slides: *Slides to come.*
 
 Instructors: Aneel Damaraju and Franc O
 
-Materials: 
-- [Google Drive folder](https://drive.google.com/drive/folders/1j8Ey5gwIO5uhfOQLWIbbj_QWoeUOY4ho?usp=drive_link)
+Materials: [Google Drive folder](https://drive.google.com/drive/folders/1j8Ey5gwIO5uhfOQLWIbbj_QWoeUOY4ho?usp=drive_link)
 
 ## 4. Dynamic Simulation-Based Inference: Extracting Physics from Complex Data and Simulations
 
