@@ -80,7 +80,7 @@ Materials: [Google Drive folder](https://drive.google.com/drive/folders/1j8Ey5gw
 
 Instructor: [Christoph Weniger](https://www.christophweniger.com/)
 
-Slides: *Slides to come.*
+Slides: [View here](https://cweniger.github.io/teaching-2608-IAIFI/)
 
 ### Useful Materials
 - [Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets](https://arxiv.org/abs/2510.13997)
