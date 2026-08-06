@@ -61,7 +61,7 @@ Materials:
 
 Instructor: [Berthy Feng](https://www.berthyfeng.com/)
 
-Slides: *Slides to come.*
+Slides: [View here](https://drive.google.com/file/d/1ScMw8sZr4rLSJ88gaQn8eUpK7B6g_3fK/view?usp=drive_link)
 
 ### Useful Materials
 - It is recommended to set up a Google account if you don't already have one, for the purpose of running Colab notebooks.
