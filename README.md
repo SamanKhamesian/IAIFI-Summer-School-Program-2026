@@ -100,7 +100,7 @@ Materials: [View here](https://github.com/chreissel/sbi-tutorial-iaifi26)
 
 At the end of the Hackathon on Friday, August 7, we will have a block for presentations of work done on these topics. Forming groups is strongly encouraged!
 
-Enter your team here by noon on Friday, August 7: *Link to be posted Friday morning.*
+Enter your team here by 10am on Friday, August 7: https://docs.google.com/forms/d/e/1FAIpQLSet8dT2C8BQ4-VUxBxkaFu3qnl1PfUEychhENRS1Gn-1wiJcA/viewform
 
 ### Prompts
 
